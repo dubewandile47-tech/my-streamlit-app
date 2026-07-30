@@ -82,4 +82,3 @@ if st.button("Ask JARVIS"):
 # ===== FOOTER =====
 st.markdown("---")
 st.caption("JARVIS Pro SA | Powered by Groq AI | R1 per task")
-Add JARVIS Pro SA
